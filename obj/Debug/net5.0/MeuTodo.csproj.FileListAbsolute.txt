@@ -21,6 +21,10 @@ F:\Estudos\MeuTodo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
 F:\Estudos\MeuTodo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
 F:\Estudos\MeuTodo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
 F:\Estudos\MeuTodo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
 F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
 F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
 F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -49,7 +53,3 @@ F:\Estudos\MeuTodo\obj\Debug\net5.0\refint\MeuTodo.dll
 F:\Estudos\MeuTodo\obj\Debug\net5.0\MeuTodo.pdb
 F:\Estudos\MeuTodo\obj\Debug\net5.0\MeuTodo.genruntimeconfig.cache
 F:\Estudos\MeuTodo\obj\Debug\net5.0\ref\MeuTodo.dll
-F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
-F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
-F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
-F:\Estudos\MeuTodo\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
